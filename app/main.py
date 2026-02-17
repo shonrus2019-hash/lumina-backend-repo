@@ -18,7 +18,7 @@ app.add_middleware(
     "https://web.telegram.org",
     "https://t.me",
     "https://lumina-frontend-sable.vercel.app/",  # ← замените на ваш Vercel URL
-    "http://localhost:5173",
+    
     ],
     allow_credentials=True,
     allow_methods=["*"],
